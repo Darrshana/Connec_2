@@ -8,7 +8,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="connec_2"
+        android:label="connec_to"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

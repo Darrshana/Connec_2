@@ -1,8 +1,32 @@
-# Connec_to
-<hr>
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-<b><h4>An intra-group messaging app developed using flutter that can be used by any organization or group where authorized users can log in,view and broadcast messages to the group.Only members of the organization or group can use the group chat app solely for official or unofficial purposes.</h4></b>
 
-Firebase Cloud Firestore and Firebase authentication packages are used to equip the app with a cloud-based NoSQL database and secure authentication methods.
+# Flash Chat ⚡️
 
-Language used:Dart
+## Our Goal
+
+The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods. 
+
+
+## What you will create
+
+We’re going to build a modern messaging app where users can sign up and log in to chat.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+
+## What you will learn
+
+- How to incorporate Firebase into your Flutter projects.
+- How to use Firebase authentication to register and sign in users.
+- How to create beautiful animations using the Flutter Hero widget.
+- How to create custom aniamtions using Flutter's animation controller. 
+- Learn all about mixins and how they differ from superclasses.
+- Learn about Streams and how they work.
+- Learn to use ListViews to build scrolling views.
+- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
+
+
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)

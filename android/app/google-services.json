@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237518024863",
+    "project_id": "connec-2",
+    "storage_bucket": "connec-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237518024863:android:f68aa3c7055ca49d09f2aa",
+        "android_client_info": {
+          "package_name": "darrshana.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237518024863-6lsvm3fj4c6s35l9o18c8rvr82kv7bu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR1rjGE8bTHDcGOzI3RmYP6B1pC00BnXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237518024863-6lsvm3fj4c6s35l9o18c8rvr82kv7bu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
